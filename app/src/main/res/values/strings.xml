@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="titulo">CALCULADORA</string>
+    <string name="operaciones">Operaciones</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
 </resources>
